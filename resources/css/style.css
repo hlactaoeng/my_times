@@ -114,3 +114,8 @@ div.lead-story{
       height: 565.812px;
       width: 300px;
 }
+/*column small*/
+.column.small{
+      width: 240px;
+      margin-left: 32px;
+}
