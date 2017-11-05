@@ -44,3 +44,30 @@ nav span{
   width: 59.7812px;
   height: 17px;
 }
+
+/*main container */
+.content{
+       display: flex;
+       width: 1232px;
+       margin: 0 auto 78px auto;
+       padding-top: 116px;
+}
+
+.column large{
+       width: 630px;
+}
+
+.column{
+       display: flex;
+       flex-direction: column;
+}
+
+p{
+       display: block;
+
+}
+
+h2{
+       display: block;
+       font-size: 1.5em;
+}
