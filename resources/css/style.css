@@ -65,7 +65,8 @@ nav span{
 
 p{
        display: block;
-
+       height: 116px;
+       width: 600.90;
 }
 
 h2{
@@ -87,7 +88,7 @@ div{
 div.lead-story{
       display: block;
       height: 214px;
-      width: 600.90.px;
+      width: 600.906px;
 }
 
 div.text-content{
