@@ -60,21 +60,24 @@ nav span{
        background-color: lightgray; <!-- remove this later -->
 }
 
-.column large{
+.column.large{
        width: 630px;
-}
-
-.column{
-       display: flex;
        flex-direction: column;
+       height: 565.812px;
        margin-right: 32px;
 }
 
-p{
+/*.column{
+       display: flex;
+       flex-direction: column;
+       margin-right: 32px;
+}*/
+
+/*p{
        display: block;
        height: 116px;
        width: 600.90;
-}
+}*/
 
 h2{
        display: block;
