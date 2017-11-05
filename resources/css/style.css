@@ -64,6 +64,7 @@ nav span{
        width: 630px;
        flex-direction: column;
        height: 565.812px;
+       width: 602.906px;
        margin-right: 32px;
 }
 
@@ -113,6 +114,11 @@ div.lead-story{
       flex-direction: column;
       height: 565.812px;
       width: 300px;
+}
+.story.cat-ceo image-content{
+      display: block;
+      height: 214px;
+      width: 285.094px;
 }
 /*column small*/
 .column.small{
