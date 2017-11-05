@@ -71,3 +71,26 @@ h2{
        display: block;
        font-size: 1.5em;
 }
+
+div.image-content{
+       display: inline;
+       height: auto;
+       width: auto;
+}
+
+div{
+       display: block;
+       border: 1px solid black;
+}
+
+div.lead-story{
+      display: block;
+      height: 214px;
+      width: 600.90.px;
+}
+
+div.text-content{
+       display: block;
+       height: 119.812px;
+       width: 596.906px;
+}
