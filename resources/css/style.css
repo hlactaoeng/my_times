@@ -103,3 +103,11 @@ div.text-content{
        height: 119.812px;
        width: 596.906px;
 }
+
+/*Column medium*/
+.column.medium{
+      display: flex;
+      flex-direction: column;
+      height: 565.812px;
+      width: 300px;
+}
