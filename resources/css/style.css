@@ -48,9 +48,16 @@ nav span{
 /*main container */
 .content{
        display: flex;
+       flex-wrap: wrap;
        width: 1232px;
-       margin: 0 auto 78px auto;
+       height: 567.812px;
+       margin-bottom: 78px;
+       margin-left: 0px;
+       margin-right: -626px;
+       margin-top: 0px;
+       /*margin: 0 auto 78px auto;*/
        padding-top: 116px;
+       background-color: lightgray; <!-- remove this later -->
 }
 
 .column large{
