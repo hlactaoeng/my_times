@@ -50,7 +50,7 @@ nav span{
        display: flex;
        flex-wrap: wrap;
        width: 1232px;
-       height: 567.812px;
+       /*height: 567.812px;*/
        margin-bottom: 78px;
        margin-left: 0px;
        margin-right: -626px;
@@ -85,10 +85,17 @@ h2{
        font-size: 1.5em;
 }
 
-div.image-content{
-       display: inline;
+.image-content{
+       height: 300px;
+       margin-top: 15px;
+       font-family: Georgia;
+       font-weight: bold;
+       font-size: 30px;
+       color: white;
+       text-align: center;
+      /* display: inline;
        height: 20px;
-       width: 600.91px;
+       width: 600.91px;*/
 }
 
 div{
@@ -96,9 +103,9 @@ div{
        border: 1px solid black;
 }
 
-div.lead-story{
+.lead-story{
       display: block;
-      height: 214px;
+      height: 500px;
       width: 600.906px;
 }
 
