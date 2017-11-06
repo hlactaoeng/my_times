@@ -98,6 +98,14 @@ h2{
        width: 600.91px;*/
 }
 
+.lead-story .image-content{
+      background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+      width: 600px;
+      margin-top: 0px;
+      font-size: 40px;
+      text-align: left;
+      }
+      
 div{
        display: block;
        border: 1px solid black;
