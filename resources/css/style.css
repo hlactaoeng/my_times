@@ -105,7 +105,21 @@ h2{
       font-size: 40px;
       text-align: left;
       }
-      
+
+.narrative{
+      margin-top: 16px;
+      display: block;
+      }
+.stories .text-content{
+      height: 250px;
+      margin-right: 32px;
+      }
+.stories{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 17px;
+      }
+
 div{
        display: block;
        border: 1px solid black;
