@@ -57,7 +57,7 @@ nav span{
        margin-top: 0px;
        /*margin: 0 auto 78px auto;*/
        padding-top: 116px;
-       background-color: lightgray; <!-- remove this later -->
+       /*background-color: lightgray; <!-- remove this later -->*/
 }
 
 .column.large{
@@ -83,6 +83,7 @@ nav span{
 h2{
        display: block;
        font-size: 1.5em;
+       font-weight: bold;
 }
 
 .image-content{
@@ -130,6 +131,11 @@ div{
       height: 500px;
       width: 600.906px;
 }
+
+.fall-cancelled.image-content{
+     background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
+     margin-right: 32px;
+     }
 
 /*div.text-content{
        display: block;
