@@ -137,6 +137,9 @@ div{
      margin-right: 32px;
      }
 
+.pop-culture.image-content{
+     background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
+     }
 /*div.text-content{
        display: block;
        height: 119.812px;
