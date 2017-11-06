@@ -50,20 +50,20 @@ nav span{
        display: flex;
        flex-wrap: wrap;
        width: 1232px;
-       /*height: 567.812px;*/
+       height: 1381.630;
        margin-bottom: 78px;
        margin-left: 0px;
        margin-right: -626px;
        margin-top: 0px;
        /*margin: 0 auto 78px auto;*/
        padding-top: 116px;
-       /*background-color: lightgray; <!-- remove this later -->*/
+       background-color: lightgray; /*<!-- remove this later -->*/
 }
 
 .column.large{
        width: 630px;
        flex-direction: column;
-       height: 565.812px;
+       height: 1200.812px;
        width: 602.906px;
        margin-right: 32px;
 }
