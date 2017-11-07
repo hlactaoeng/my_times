@@ -62,7 +62,7 @@ nav span{
 .column.large{
        width: 630px;
        flex-direction: column;
-       height: 1200.812px;
+       height: 1100.812px;
        width: 602.906px;
        margin-right: 32px;
 }
@@ -80,6 +80,7 @@ h2{
        font-weight: bold;
        font-size: 30px;
        color: white;
+       justify-content: center;
        text-align: center;
       /* display: inline;
        height: 20px;
