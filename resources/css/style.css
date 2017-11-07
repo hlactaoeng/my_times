@@ -81,7 +81,8 @@ h2{
        font-size: 30px;
        color: white;
        justify-content: center;
-       text-align: center;
+       /*text-align: center;*/
+       align-items: center;
       /* display: inline;
        height: 20px;
        width: 600.91px;*/
@@ -92,9 +93,13 @@ h2{
       width: 600px;
       margin-top: 0px;
       font-size: 40px;
-      text-align: left;
+      /*text-align: left;*/
       }
-
+.lead-story .image-content span{
+     margin-left: 20px;
+     font-size: 40px;
+     text-align: center;
+}
 .narrative{
       margin-top: 16px;
       display: block;
