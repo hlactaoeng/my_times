@@ -50,12 +50,13 @@ nav span{
        display: flex;
        flex-wrap: wrap;
        width: 1232px;
-       height: 1381.630;
+       /*height: 1381.630;
        margin-bottom: 78px;
        margin-left: 0px;
        margin-right: -626px;
-       margin-top: 0px;
+       margin-top: 0px;*/
        padding-top: 116px;
+       margin: 0 auto 78px auto;
 }
 
 /* First column */
@@ -74,15 +75,18 @@ h2{
 }
 
 .image-content{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
        height: 300px;
        margin-top: 15px;
        font-family: Georgia;
        font-weight: bold;
        font-size: 30px;
        color: white;
-       justify-content: center;
+       /*justify-content: center;*/
        /*text-align: center;*/
-       align-items: center;
+       text-align: center;
       /* display: inline;
        height: 20px;
        width: 600.91px;*/
