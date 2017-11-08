@@ -86,7 +86,7 @@ h2{
        color: white;
        /*justify-content: center;*/
        /*text-align: center;*/
-       text-align: center;
+       text-align: left;
       /* display: inline;
        height: 20px;
        width: 600.91px;*/
@@ -118,10 +118,14 @@ h2{
       margin-top: 17px;
       }
 
-/*div{
-       display: block;
-       border: 1px solid black;
-}*/
+h2{
+      font-size: 30px;
+      margin-top: 0;
+      margin-bottom: 0;
+      font-family: Georgia;
+      font-weight: bold;
+      font-style: normal
+}
 
 .lead-story{
       display: block;
