@@ -16,6 +16,9 @@ header nav{
   padding-right: 40px;
 }
 
+a{
+  color: black;
+}
 .logo{
   display: flex;
   align-items: center;
@@ -86,7 +89,7 @@ h2{
        color: white;
        /*justify-content: center;*/
        /*text-align: center;*/
-       text-align: left;
+       text-align: center;
       /* display: inline;
        height: 20px;
        width: 600.91px;*/
@@ -102,7 +105,7 @@ h2{
 .lead-story .image-content span{
      margin-left: 20px;
      font-size: 40px;
-     text-align: center;
+     text-align: left;
 }
 .narrative{
       margin-top: 16px;
